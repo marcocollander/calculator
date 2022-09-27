@@ -1,2 +1,2 @@
 # Demo of the vanilla JavaScript program
-Project view [here](marcocollander.github.io/calculator/) 
+Project view [here](https://marcocollander.github.io/calculator/) 
